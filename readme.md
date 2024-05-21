@@ -34,6 +34,9 @@ virtualenv venv
 
 # Ative o ambiente virtual
 source venv/bin/activate
+
+# Instalar as bibliotecas 
+pip install -r requirements.txt 
 ```
 
 ## Configuração
