@@ -1285,3 +1285,4 @@ Temporary Items
 
 db
 chroma_data
+db_index.faiss
